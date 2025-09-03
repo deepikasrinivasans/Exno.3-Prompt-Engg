@@ -53,21 +53,21 @@ The campaign aims not only to inform but to empower communities toward collectiv
 
 
 ### Step 2: Audience-Specific Messaging
-👩‍🎓 Young Adults (18–25):
+### 👩‍🎓 Young Adults (18–25):
 -  Content Strategy: Short-form videos (TikTok, Instagram Reels, YouTube Shorts).
 -  Message Tone: Relatable, empowering, hopeful.
 -  Call-to-Action: “Share this fact,” “Join eco-challenges,” “Be a climate ambassador.”
   
 <img width="1280" height="656" alt="image" src="https://github.com/user-attachments/assets/af545e6d-6715-4ada-8f61-307bd833a435" />
 
-👨‍👩‍👧 Families (30–50):
+### 👨‍👩‍👧 Families (30–50):
 -  Content Strategy: Animated explainers, DIY eco-guides, local events.
 - Message Tone: Family safety, financial savings, children’s future.
 -  Call-to-Action: “Save energy at home,” “Teach kids eco-habits,” “Join community events.”
 
 <img width="858" height="691" alt="image" src="https://github.com/user-attachments/assets/806c49f7-4fc5-4d8e-bf0d-4987bb2a8a97" />
 
-🏢 Small Business Owners:
+### 🏢 Small Business Owners:
 - Content Strategy: Webinars, LinkedIn case studies, workshops.
 - Message Tone: Efficiency, savings, reputation.
 - Call-to-Action: “Go green to save costs,” “Adopt eco-certifications,” “Promote your green brand.”
