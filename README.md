@@ -1,48 +1,110 @@
-# Exno.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts.
+# Experiment 3: Designing a Climate Change Awareness Campaign
+## Aim
+To design a comprehensive and engaging climate change awareness campaign that:
+. Educates the public about local and global climate issues.
+. Inspires individual and collective action.
+. Encourages sustainable behaviors across communities.
+This experiment uses a scenario-based approach and preceding question prompting to structure the campaign plan, ensuring it is robust, scalable, and adaptable.
+## Algorithm
+###  Step 1: Define Scope and Objectives
+1.1 Goal → Nationwide awareness campaign on climate change.
 
-### Algorithm:  1. Direct Instruction Prompts
-Objective: Guide the chatbot to respond concisely to customer inquiries.
-Prompt Pattern:
-Prompt: "When a customer asks for the status of their order, reply with: 'Your order is currently being processed and will be delivered by [date].'"
-2. Contextual Prompting
-Objective: Incorporate specific context to provide detailed answers based on the user’s previous interaction.
-Prompt Pattern:
-Prompt: "If the customer previously mentioned that they haven’t received their order, say, 'I see that you mentioned your order hasn't arrived yet. Let me check the details for you and get back shortly.'"
-3. Persona-Based Prompting
-Objective: Design the chatbot to adopt a specific persona, making the interaction more engaging.
-Prompt Pattern:
-Prompt: "Pretend you are a friendly, helpful customer service representative. Use a conversational tone, such as 'Hey there! I’m here to help with any questions you might have. Let’s get your issue sorted!'"
-4. Few-Shot Prompting
-Objective: Teach the AI how to respond using a few examples, enabling it to generalize for similar situations.
-Prompt Pattern:
-Prompt: "Here are some examples of how to handle technical questions:
-'My phone isn't charging.' → 'Have you tried using a different cable? If that doesn’t work, it may be an issue with the port.'
-'The screen is flickering.' → 'It sounds like a display issue. Have you tried restarting the device?'
-Now, respond to: 'My app keeps crashing.'"
-5. Chain of Thought Prompting
-Objective: Use a step-by-step reasoning approach for resolving more complex or technical issues.
-Prompt Pattern:
-Prompt: "When a customer reports their laptop overheating, guide them through the following steps:
-Ask if they are using the laptop on a soft surface.
-Suggest moving the laptop to a flat, hard surface for better airflow.
-Ask if they’ve cleaned the vents recently.
-Recommend restarting the device to see if the issue persists.
-Now, solve: 'My laptop fan is making a loud noise.'"
-6. Instruction with Constraints
-Objective: Instruct the chatbot to provide assistance while adhering to specific constraints (e.g., response length or tone).
-Prompt Pattern:
-Prompt: "Respond to order inquiries in no more than 50 words and avoid using technical jargon. For example, 'Your order is on the way and should arrive by [date]. Feel free to reach out if you need anything else.'"
-7. Reflective Prompting
-Objective: Ensure that the chatbot reflects the user’s query back to them before providing a response, reducing misunderstandings.
-Prompt Pattern:
-Prompt: "When a customer asks for help, first reflect their question back to them. For example, if they ask 'How can I reset my password?' respond with 'You're asking how to reset your password, correct? Here’s how you can do it.'"
-Result: The various types of Prompts are executed successfully.
+1.2 Audience → Young adults, families, and small business owners.
+
+1.3 Core Focus → Awareness, behavioral change, policy advocacy. 
+### Step 2: Campaign Design
+2.1 Tailor core message for different audiences.
+
+2.2 Select suitable communication platforms.
+
+2.3 Use visuals, stories, and calls-to-action.
+### Step 3: Implement Prompt Patterns
+3.1 Apply preceding question prompting for campaign planning.
+
+3.2 Create audience-specific messaging strategies.
+
+3.3 Align campaign tone: urgency + hope.
+### Step 4: Review & Finalize
+4.1 Ensure clarity, inclusiveness, and cultural sensitivity.
+
+4.2 Verify achievable goals (awareness ↑ 50%, sustainable behaviors ↑ 20%).
+
+4.3 Prepare diagrams and infographics.
+## Introduction
+Climate change is one of the most urgent global challenges, impacting health, economy, and ecosystems. While policies and technology play a role, public awareness and behavioral change are equally critical.
+
+This experiment develops a climate change awareness campaign that resonates with multiple audiences by:
+
+- Using scenario-based campaign planning.
+
+- Applying prompt engineering (preceding question prompting).
+
+- Delivering targeted yet unified messaging for impact.
+
+The campaign aims not only to inform but to empower communities toward collective responsibility and sustainable living.
+## Output
+### Step 1: UCore Campaign Message
+
+“🌍 Climate change is real, local, and solvable. Together, we can protect our planet for future generations.”
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dd49f9c3-fe44-42cf-acde-8d24a1091f22" />
 
 
 
 
-# Result: Thus the Prompts were exected succcessfully .
+### Step 2: Audience-Specific Messaging
+👩‍🎓 Young Adults (18–25):
+-  Content Strategy: Short-form videos (TikTok, Instagram Reels, YouTube Shorts).
+-  Message Tone: Relatable, empowering, hopeful.
+-  Call-to-Action: “Share this fact,” “Join eco-challenges,” “Be a climate ambassador.”
+  
+<img width="1280" height="656" alt="image" src="https://github.com/user-attachments/assets/af545e6d-6715-4ada-8f61-307bd833a435" />
 
+👨‍👩‍👧 Families (30–50):
+-  Content Strategy: Animated explainers, DIY eco-guides, local events.
+- Message Tone: Family safety, financial savings, children’s future.
+-  Call-to-Action: “Save energy at home,” “Teach kids eco-habits,” “Join community events.”
+
+<img width="858" height="691" alt="image" src="https://github.com/user-attachments/assets/806c49f7-4fc5-4d8e-bf0d-4987bb2a8a97" />
+
+🏢 Small Business Owners:
+- Content Strategy: Webinars, LinkedIn case studies, workshops.
+- Message Tone: Efficiency, savings, reputation.
+- Call-to-Action: “Go green to save costs,” “Adopt eco-certifications,” “Promote your green brand.”
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/375f1ec1-047d-4201-9f8b-312396e708ea" />
+
+## Comparison Table: Messaging by Audience
+
+<img width="1861" height="502" alt="image" src="https://github.com/user-attachments/assets/41d117cd-f8dd-4d97-a1ec-6b151d98c6bb" />
+
+## 🧠 Mind Map of Climate Change Campaign
+### Core Goal → Educate | Inspire | Empower
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f12a3c06-063d-4f55-85ee-e5fd2639032c" />
+
+-  Young Adults → Videos, Challenges
+-  Families → DIY Guides, Local Events
+-  Businesses → Webinars, Case Studies
+Outcomes →
+Awareness ↑ 50%
+Sustainable Behaviors ↑ 20%
+Policy Advocacy ↑ Community Support
+Definition: A decentralized, immutable, and distributed digital ledger.
+
+<img width="1294" height="348" alt="image" src="https://github.com/user-attachments/assets/3c4e8c8c-f4f0-418d-9fa3-c824076e202c" />
+
+##### Future Potential
+The campaign can scale into:
+- Policy advocacy movements.
+- Youth climate clubs at schools and colleges.
+- Green business certifications to attract eco-conscious customers.
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e1cddac0-a637-4622-94c0-f29b58fe107e" />
+
+## Result
+The experiment successfully produced:
+- A scenario-based climate awareness campaign.
+- Audience-specific strategies with messaging, visuals, and calls-to-action.
+- Supporting material (Tables, Mind Maps, Visuals).
+This demonstrates how prompt engineering can be applied to real-world communication challenges to design impactful awareness campaigns.
