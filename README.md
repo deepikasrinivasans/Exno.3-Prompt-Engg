@@ -94,7 +94,8 @@ The campaign aims not only to inform but to empower communities toward collectiv
 ## 🧠 Mind Map of Climate Change Campaign
 ### Core Goal → Educate | Inspire | Empower
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f12a3c06-063d-4f55-85ee-e5fd2639032c" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/085cfb0a-bf8d-4c73-b66a-90d6b4d0c6bf" />
+
 
 -  Young Adults → Videos, Challenges
 -  Families → DIY Guides, Local Events
