@@ -5,6 +5,9 @@ To design a comprehensive and engaging climate change awareness campaign that:
 . Inspires individual and collective action.
 . Encourages sustainable behaviors across communities.
 This experiment uses a scenario-based approach and preceding question prompting to structure the campaign plan, ensuring it is robust, scalable, and adaptable.
+
+---
+
 ## Algorithm
 ###  Step 1: Define Scope and Objectives
 1.1 Goal → Nationwide awareness campaign on climate change.
@@ -30,6 +33,9 @@ This experiment uses a scenario-based approach and preceding question prompting 
 4.2 Verify achievable goals (awareness ↑ 50%, sustainable behaviors ↑ 20%).
 
 4.3 Prepare diagrams and infographics.
+
+---
+
 ## Introduction
 Climate change is one of the most urgent global challenges, impacting health, economy, and ecosystems. While policies and technology play a role, public awareness and behavioral change are equally critical.
 
@@ -42,6 +48,9 @@ This experiment develops a climate change awareness campaign that resonates with
 - Delivering targeted yet unified messaging for impact.
 
 The campaign aims not only to inform but to empower communities toward collective responsibility and sustainable living.
+
+---
+
 ## Output
 ### Step 1: UCore Campaign Message
 
