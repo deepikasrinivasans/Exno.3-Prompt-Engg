@@ -83,9 +83,13 @@ The campaign aims not only to inform but to empower communities toward collectiv
 
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/375f1ec1-047d-4201-9f8b-312396e708ea" />
 
+---
+
 ## Comparison Table: Messaging by Audience
 
 <img width="1861" height="502" alt="image" src="https://github.com/user-attachments/assets/41d117cd-f8dd-4d97-a1ec-6b151d98c6bb" />
+
+---
 
 ## 🧠 Mind Map of Climate Change Campaign
 ### Core Goal → Educate | Inspire | Empower
@@ -103,6 +107,8 @@ Definition: A decentralized, immutable, and distributed digital ledger.
 
 <img width="1294" height="348" alt="image" src="https://github.com/user-attachments/assets/3c4e8c8c-f4f0-418d-9fa3-c824076e202c" />
 
+---
+
 ##### Future Potential
 The campaign can scale into:
 - Policy advocacy movements.
@@ -111,6 +117,7 @@ The campaign can scale into:
 
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e1cddac0-a637-4622-94c0-f29b58fe107e" />
 
+--- 
 ## Result
 The experiment successfully produced:
 - A scenario-based climate awareness campaign.
